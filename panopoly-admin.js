@@ -17,7 +17,7 @@
         $('#node-edit .form-item-field-featured-image-und-0-alt label').html('Alt Text');
       }
     }
-  }
+  };
 
   /**
    * Automatically Upload Files/Images Attached
