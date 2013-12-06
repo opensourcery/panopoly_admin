@@ -26,7 +26,7 @@ function panopoly_admin_defaultconfig_user_default_permissions() {
     'name' => 'access administration pages',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'system',
   );
@@ -47,7 +47,7 @@ function panopoly_admin_defaultconfig_user_default_permissions() {
     'name' => 'access content overview',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'node',
   );
@@ -67,7 +67,7 @@ function panopoly_admin_defaultconfig_user_default_permissions() {
     'name' => 'administer menu',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'menu',
   );
@@ -77,7 +77,7 @@ function panopoly_admin_defaultconfig_user_default_permissions() {
     'name' => 'administer taxonomy',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'taxonomy',
   );
@@ -87,7 +87,7 @@ function panopoly_admin_defaultconfig_user_default_permissions() {
     'name' => 'delete revisions',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'node',
   );
@@ -97,7 +97,7 @@ function panopoly_admin_defaultconfig_user_default_permissions() {
     'name' => 'revert revisions',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'node',
   );
@@ -117,7 +117,7 @@ function panopoly_admin_defaultconfig_user_default_permissions() {
     'name' => 'view own unpublished content',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'node',
   );
@@ -127,7 +127,7 @@ function panopoly_admin_defaultconfig_user_default_permissions() {
     'name' => 'view revisions',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'node',
   );
