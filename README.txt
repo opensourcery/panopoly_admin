@@ -1,5 +1,5 @@
-Panopoly Admin
-==============
+Panopoly Admin Lite
+===================
 This is the administrative heart of Panopoly. It provides integration with popular UX/UI
 enhancement modules and exposes a variety of end user settings for Panopoly.
 
